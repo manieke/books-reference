@@ -12,6 +12,9 @@ body{
 	font-size:18px;
 	margin: 0px;
 }
+p{
+	text-align: justify;
+}
 
 h1,h2,h3{
 	font-family: 'Playfair Display', serif;
