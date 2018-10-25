@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css?family=Niramit|Open+Sans|PT+Sans+Narrow|Philosopher|Playfair+Display|Roboto+Condensed|Sacramento|Source+Sans+Pro" rel="stylesheet");
+@import url("components/container.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/cards.css");
+@import url("components/propos.css");
+@import url("components/propos.css");
+@import url("components/menu.css");
+
+body{
+	font-family: 'PT Sans Narrow', sans-serif;
+	font-size:18px;
+	margin: 0px;
+}
+
+h1,h2,h3{
+	font-family: 'Playfair Display', serif;
+	font-weight: bold;
+	color:#222222;
+}
+
+h2{
+	color: #28544b;
+}
+
+h1{
+	margin:0px;
+	margin-bottom: 30px;
+}
+
+a{
+	text-decoration: none;
+  color: #28544b;
+  transition: color 0.3s ease;
+  text-align: center;
+}
+
+i{
+	font-size: 20px;
+	text-align: center;
+}
+
+#instagram{
+	text-align:center;
+	font-size: 20px;
+	padding:30px;
+}
+
+

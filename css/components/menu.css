@@ -1,0 +1,21 @@
+.menu{
+	text-align:center;
+}
+
+.list-without-bullet-point{
+	list-style-type: none;
+	padding:0;
+}
+
+.inline {
+	display:inline;
+	text-align:center;
+	padding:6px;
+}
+
+@media (max-width: 720px) {
+	.inline{
+		display:block;
+		line-height: 50px;
+	}
+}

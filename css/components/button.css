@@ -1,0 +1,30 @@
+.bouton-grey{
+	background-color: #efecec;
+	margin-top: 15px;
+	padding:20px 20px;
+	border-radius:4px;
+	color:black;
+	font-weight:bold;
+	font-family: 'Philosopher', sans-serif;
+}
+.bouton-green{
+  background-color: #669b7c;
+  margin-top: 30px;
+  padding:15px 15px;
+  border-radius:4px;
+  color:black;
+  font-weight:bold;
+  font-family: 'Philosopher', sans-serif;
+}
+.bouton-lire{
+	background-color: #669b7c;
+	margin-top: 30px;
+  padding:15px 15px;
+  border-radius:4px;
+  color:white;
+  font-weight:bold;
+  font-family: 'Philosopher', sans-serif;
+}
+#bouton-banner{
+  margin-top: 40px;
+}
